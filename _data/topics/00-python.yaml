@@ -1,0 +1,15 @@
+taxonomy: topic
+_id: python
+name: Python
+keywords:
+  - python
+images:
+  - https://smartableai.github.io/python/assets/images/topics/python.jpg
+  - https://smartableai.github.io/python/assets/images/topics/python-2.jpg
+  - https://smartableai.github.io/python/assets/images/topics/python-3.jpg
+services:
+  news: https://smartableai.github.io/python/api/news/
+  learning: https://smartableai.github.io/python/api/learning/
+  people: https://smartableai.github.io/python/api/people/
+  events: https://smartableai.github.io/python/api/events/
+  newsletters: https://smartableai.github.io/python/api/newsletters/
